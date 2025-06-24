@@ -15,13 +15,6 @@
 
 ---
 
-## UI Preview
-
-> Login screen → Chat room → P2P connection fields → Real-time chat display  
-*(Screenshots or demo GIFs can be added here)*
-
----
-
 ## How It Works
 
 ### Group Chat
