@@ -6,12 +6,12 @@
 
 ## Features
 
-- 🔹 **Join Global Group Chat** via a central server.
-- 🔹 **Initiate P2P Chats** by connecting directly to another client through a P2P server.
-- 🔹 Toggle between Group and P2P modes in real-time.
-- 🔹 RichTextBox formatting with usernames, timestamps, and system messages.
-- 🔹 Validation for user input and server connection.
-- 🔹 Graceful disconnection and error handling.
+- **Join Global Group Chat** via a central server.
+- **Initiate P2P Chats** by connecting directly to another client through a P2P server.
+- Toggle between Group and P2P modes in real-time.
+- RichTextBox formatting with usernames, timestamps, and system messages.
+- Validation for user input and server connection.
+- Graceful disconnection and error handling.
 
 ---
 
@@ -22,21 +22,21 @@
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
-### ✅ Group Chat
+### Group Chat
 1. User connects to the **GroupServer**.
 2. Messages are broadcasted to all connected clients.
 3. Notifications when users join/leave the chat.
 
-### ✅ Peer-to-Peer Chat
+### Peer-to-Peer Chat
 1. User connects to the **PTPServer**.
 2. Select a recipient IP/port to initiate direct messaging.
 3. Messages are sent privately between two clients only.
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - **Language:** C# (.NET Framework)
 - **UI Framework:** Windows Forms (WinForms)
