@@ -6,8 +6,8 @@
 
 ## Features
 
-- **Join Global Group Chat** via a central server.
-- **Initiate P2P Chats** by connecting directly to another client through a P2P server.
+- Join Global Group Chat via a central server.
+- Initiate P2P Chats by connecting directly to another client through a P2P server.
 - Toggle between Group and P2P modes in real-time.
 - RichTextBox formatting with usernames, timestamps, and system messages.
 - Validation for user input and server connection.
